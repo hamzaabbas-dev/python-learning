@@ -35,9 +35,9 @@ Python/
 | Chapter 02 | ✅ Completed |
 | Chapter 03 | ✅ Completed |
 | Chapter 04 | ✅ Completed |
-| Chapter 05 | ✅ Complete |
-| Chapter 06 | ⏳  In Progressg |
-| Chapter 07 | ⏳ Upcoming |
+| Chapter 05 | ✅ Completed |
+| Chapter 06 | ✅ Completed |
+| Chapter 07 | ⏳  In Progressg |
 | Chapter 08 | ⏳ Upcoming |
 | Chapter 09 | ⏳ Upcoming |
 | Chapter 10 | ⏳ Upcoming |
