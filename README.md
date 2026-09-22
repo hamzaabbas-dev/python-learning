@@ -38,8 +38,8 @@ Python/
 | Chapter 05 | ✅ Completed |
 | Chapter 06 | ✅ Completed |
 | Chapter 07 | ✅ Completed |
-| Chapter 08 | ⏳  In Progressg |
-| Chapter 09 | ⏳ Upcoming |
+| Chapter 08 | ✅ Completed |
+| Chapter 09 |  ⏳  In Progress |
 | Chapter 10 | ⏳ Upcoming |
 
 ---
