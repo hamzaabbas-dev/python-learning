@@ -1,0 +1,4 @@
+Total Errors: 3
+Total Info: 3
+Total Warnings: 1
+Total recognised entries: 7
